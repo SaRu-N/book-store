@@ -42,7 +42,7 @@ function MyApp({ Component, pageProps }) {
   <Provider store={store}>
   <React.Fragment>
     <Head>
-      <title>Chasmabazaar</title>
+      <title>Read and Pass</title>
       <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
     </Head>
     <ThemeProvider theme={applyTheme}>
